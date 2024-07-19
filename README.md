@@ -21,3 +21,10 @@ git clone https://github.com/tarminik/weather_app.git
 cd weather_app
 ```
 
+2. Запустите контейнер с помощью Docker Compose:
+```bash
+docker-compose up --build
+```
+
+3. Откройте приложение в браузере
+Приложение будет доступно по адресу http://localhost:8000.
